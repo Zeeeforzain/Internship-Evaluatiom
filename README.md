@@ -8,6 +8,6 @@ The "About Me" page offers a more detailed introduction to my background and ski
 Here, HTML is used to structure the content into sections. I employed CSS to enhance the visual appeal of this page,using techniques such as flexbox  to create a responsive layout that looks great on both desktop and mobile devices.
 It is yet a very small website that is made according to requiremenets of JJ's IT. I have not added any extra component and I tried to keep this as simple as possible with proper nevigations to all pages.<br>
 # Instructions_for_usage<br>
-I have arranged the files and images properly in folders. There is folder for CSS files and for Images. They all are kept in main folder.
+I have arranged the files and images properly in folders. There are folders for CSS files and for Images. They all are kept in main folder.
 .zip file of the website is attached.
 Download the zip folder and extract that,you will see the website.
