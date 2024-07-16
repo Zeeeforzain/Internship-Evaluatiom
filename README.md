@@ -1,5 +1,5 @@
 #Description<br>
-The website is a simple yet effective demonstration of my ability to design and structure a web page, with a focus on aesthetics and usability. 
+The website is a simple yet effective demonstration of my ability to design and structure a web page, with a focus on aesthetics and usability.
 Comprised of three main pages, the website serves as a mini-portfolio that highlights key web development techniques and principles. 
 The homepage is designed to welcome visitors with a clean and visually appealing layout. Using HTML, I structured the page with a clear header that includes navigation bar, a main content section and a footer.
 The header features the navigation bar provides links to the other two pages: an "About Me" page and a "Contact us" page.
