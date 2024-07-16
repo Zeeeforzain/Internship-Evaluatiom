@@ -10,4 +10,3 @@ It is yet a very small website that is made according to requiremenets of JJ's I
 <br>#Instructions_for_usage<br>
 I have arranged the files and images properly in folders. There is folder for CSS files and for Images. They all are kept in main folder.
 Simply open the main folder and you will be open to see the website.
-In case there is no adaptation of CSS in any file, try opening it using Visual studio code.
